@@ -3,7 +3,7 @@
  * @Author: Kotori Y
  * @Date: 2021-06-18 14:29:29
  * @LastEditors: Kotori Y
- * @LastEditTime: 2021-06-18 16:14:01
+ * @LastEditTime: 2021-06-18 17:00:04
  * @FilePath: \line-marker\static\scripts\renderLineMarker.js
  * @AuthorMail: kotori@cbdd.me
  */
@@ -65,7 +65,7 @@ const renderLineMarker = (data) => {
 
   option = {
     title: {
-      text: "TITLE",
+      text: "Potential Metabolism Interactions",
     },
     tooltip: {
       trigger: "axis",
